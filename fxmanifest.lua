@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Yamie#9680'
 
-description 'Cat Cafe With Cars'
+description 'Cat Cafe With Cats'
 
 lua54 'yes'
 
@@ -20,11 +20,3 @@ escrow_ignore {
 }
 
 
---[[ client_scripts { 
-"client.lua",
-"config.lua"}
-
-server_scripts { 
-"server.lua",
-"config.lua"
-} ]]
