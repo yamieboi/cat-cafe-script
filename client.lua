@@ -28,8 +28,8 @@ CreateThread(function()
                     spawnDOGS()
                 end
              
-			else
-                 print("despawn function not done yett")
+--[[ 			else
+                 print("despawn function not done yett") ]]
 			end
 
 
