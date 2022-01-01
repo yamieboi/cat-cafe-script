@@ -14,7 +14,7 @@ end, false ) ]]
 CreateThread(function()
     local spot1 = CircleZone:Create(vector3(-580.54, -1064.7, 22.79), 10.0, {
         name="spot1",
-        debugPoly=true,
+        debugPoly=false,
     })
     
 
