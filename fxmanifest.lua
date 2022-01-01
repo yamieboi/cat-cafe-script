@@ -12,11 +12,16 @@ shared_scripts {
 }
 
 client_scripts {
-    'client.lua'
+    'client.lua',
 
-}
-escrow_ignore {
-    'config.lua',  -- Only ignore one file
+
+	'@PolyZone/client.lua',
+	'@PolyZone/BoxZone.lua',
+	'@PolyZone/EntityZone.lua',
+	'@PolyZone/CircleZone.lua',
+	'@PolyZone/ComboZone.lua'
+
+
 }
 
 
